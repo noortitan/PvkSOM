@@ -4,7 +4,6 @@ This documentation is prepared as the workflow to accompany the following study:
 **"Stability Follows Efficiency: Analysis of a Large Perovskite Solar Cells Ageing Dataset"**
 
 *(Journal information and DOI to be added)*
-Noor Titan Putri Hartono1,§*, Hans Köbler1,§, Paolo Graniero2,3, Mark Khenkin2, Rutger Schlatmann2, Carolin Ulbrich2, Antonio Abate1*
 
 Noor Titan Putri Hartono (1), Hans Köbler (1), Paolo Graniero (2,3), Mark Khenkin (2,3), Rutger Schlatmann (2), Carolin Ulbrich (2), Antonio Abate (1)
 
