@@ -1,15 +1,18 @@
 # PvkSOM: Perovskite solar cells degradation data clustering using self-organizing map
 This documentation is prepared as the workflow to accompany the following study:
 
-**"Large data analysis of perovskite solar cell stability"**
+**"Stability Follows Efficiency: Analysis of a Large Perovskite Solar Cells Ageing Dataset"**
 
 *(Journal information and DOI to be added)*
+Noor Titan Putri Hartono1,§*, Hans Köbler1,§, Paolo Graniero2,3, Mark Khenkin2, Rutger Schlatmann2, Carolin Ulbrich2, Antonio Abate1*
 
-Noor Titan Putri Hartono (1), Hans Köbler (1), Paolo Graniero (1), Mark Khenkin (1), Carolin Ulbrich (1), Antonio Abate (1)
+Noor Titan Putri Hartono (1), Hans Köbler (1), Paolo Graniero (2,3), Mark Khenkin (2,3), Rutger Schlatmann (2), Carolin Ulbrich (2), Antonio Abate (1)
 
 Affiliations:
 
-1. Helmholtz-Zentrum Berlin für Materialien und Energie GmbH, Berlin 12489, Germany
+1. Department Novel Materials and Interfaces for Photovoltaic Solar Cells, Helmholtz-Zentrum-Berlin, 12489 Berlin, Germany
+2. PVcomB, Helmholtz-Zentrum Berlin für Materialien und Energie, Helmholtz-Zentrum-Berlin, 12489 Berlin, Germany
+3. Department of Business Informatics, Freie Universität Berlin, 14195 Berlin, Germany
 
 ## Installation and Requirements
 To install, just clone this repository and chemprop repository:
