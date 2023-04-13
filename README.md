@@ -37,7 +37,7 @@ Then, the dataframe `.pkl` files are loaded to `20230227_degradation_analysis_re
 | |  | 
 |---|---|
 |**Author(s)** | Noor Titan Putri Hartono |
-|**Version** | 1.0/ December 2022  |   
+|**Version** | 1.0/ April 2023  |   
 |**E-mail(s)**   | titan dot hartono at helmholtz-berlin dot de  |
 | | |
 
