@@ -37,9 +37,8 @@ The processed data in `.pkl` format is available on Zenodo (https://doi.org/10.5
 
 ## Authors
 | |  | 
-|---|---|
 |**Author(s)** | Noor Titan Putri Hartono |
-|**Version** | 2.0/ August 2023  |   
+|**Version** | 1.1/ August 2023  |   
 |**E-mail(s)**   | titan dot hartono at helmholtz-berlin dot de  |
 | | |
 
